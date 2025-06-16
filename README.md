@@ -1,30 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        .section-header {
-            font-weight: bold;
-            background-color: #e6e6e6;
-        }
-        .link-column {
-            width: 100px;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
     <table>
         <tr>
             <th colspan="3" class="section-header">А. Теоретическая часть</th>
@@ -127,5 +102,4 @@
             <td class="link-column"><a href="https://drive.google.com/drive/folders/1vzof0gS5E98sag30Z_23e4wIPGaNKJUY?usp=sharing">Ссылка</a></td>
         </tr>
     </table>
-</body>
 </html>
