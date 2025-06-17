@@ -15,7 +15,7 @@
     <th>Материалы</th>
   </tr>
         <tr>
-            <td colspan="3" >А. Теоретическая часть</td>
+            <td colspan="3" ><a href="https://github.com/Xeanst/project_tasks_in_compling/tree/main/1_theoretical_part">I. Теоретическая часть</a></td>
         </tr>
         <tr>
             <td>1. Введение в обработку текстовых данных</td>
@@ -26,7 +26,7 @@
                 <li>Меры качества классификации.</li>
                 <li>Пример классификации новостных текстов по тематикам.</li>
             </td>
-            <td><a href="https://colab.research.google.com/drive/1iWF2hisv50MZ7AKi585tPldjEYmeAxay?usp=sharing">Colab-блокнот</a></td>
+            <td><a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/1_theoretical_part/01_Intro_to_NLP.ipynb">Colab-блокнот</a></td>
         </tr>
         <tr>
             <td>2. Векторные представления слов</td>
@@ -37,7 +37,7 @@
                 <li>Самостоятельная реализация в pytorch.</li>
                 <li>Использование предобученных моделей.</li>
             </td>
-            <td><a href="https://colab.research.google.com/drive/1fx7U398lcwIoPGp1vn2e5_vjLnu5lQjf?usp=sharing">Colab-блокнот</a></td>
+            <td><a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/1_theoretical_part/02_Word_embeddings.ipynb">Colab-блокнот</a></td>
         </tr>
         <tr>
             <td>3. Языковое моделирование</td>
@@ -52,7 +52,7 @@
                 <li>Сеть долгой краткосрочной памяти.</li>
                 <li>Применение LSTM для посимвольной генерации.</li>
                 </td>
-            <td class="link-column"><a href="https://colab.research.google.com/drive/10XFszxpbWVREx1vAVleixIddZ_R0NlqR?usp=sharing">Colab-блокнот</a></td>
+            <td class="link-column"><a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/1_theoretical_part/03_Language_modeling.ipynb">Colab-блокнот</a></td>
         </tr>
         <tr>
             <td>4. Механизм внимания</td>
@@ -64,7 +64,7 @@
                 <li>Визуализация весов внимания.</li>
                 <li>Оценка качества машинного перевода.</li>
                 </td>
-            <td><a href="https://colab.research.google.com/drive/1-hg_qXMwZXcPiks5mPuSXsPdNccbyZZN?usp=sharing">Colab-блокнот</a></td>
+            <td><a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/1_theoretical_part/04_Attention.ipynb">Colab-блокнот</a></td>
         </tr>
         <tr>
             <td>5. Архитектура Трансформер</td>
@@ -78,7 +78,7 @@
                 <li>Развитие архитектуры Трансформер.</li>
                 <li>Модели BART, T5.</li>
             </td>
-            <td><a href="https://colab.research.google.com/drive/1KUSuJkKaww5QXhNUMoN3MYZqdKhxqILE?usp=sharing">Colab-блокнот</a></td>
+            <td><a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/1_theoretical_part/05_Transformer.ipynb">Colab-блокнот</a></td>
         </tr>
         <tr>
             <td>6. Модели на основе энкодера Трансформера</td>
@@ -91,7 +91,7 @@
                 <li>Токенизация на подслова.</li>
                 <li>Тонкая настройка для определения логического следования.</li>
                 </td>
-            <td><a href="https://colab.research.google.com/drive/1sGSHCxC3H_plgpRalfRiHI9x7qrRBV65?usp=sharing">Colab-блокнот</a></td>
+            <td><a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/1_theoretical_part/06_Encoder.ipynb">Colab-блокнот</a></td>
         </tr>
         <tr>
             <td>7. Модели на основе декодера Трансформера</td>
@@ -104,7 +104,7 @@
                 <li>Методы эффективной тонкой настройки.</li>
                 <li>Пример тонкой настройки с помощью LoRA.</li>
             </td>
-            <td><a href="https://colab.research.google.com/drive/1ceGd9wwzhJf9srL50NSr-SV0Ys-DWmC0?usp=sharing">Colab-блокнот</a></td>
+            <td><a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/1_theoretical_part/07_Decoder.ipynb">Colab-блокнот</a></td>
         </tr>
         <tr>
             <td colspan="3">Б. Проектная часть</td>
