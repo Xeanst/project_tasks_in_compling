@@ -165,7 +165,7 @@
                         <li>«вакцины».</li>
                     </ul></li></li></td>
             <td>
-                <a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/10_RuArg/10_RuArg.ipynb">Презентация</a><br>
+                <a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/10_RuArg/10_RuArg.pdf">Презентация</a><br>
                 <a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/10_RuArg/10_RuArg.ipynb">Colab-блокнот</a>
             </td>
         </tr>
