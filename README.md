@@ -116,8 +116,7 @@
                     <ul>
                       <li">1) Вопрос «Как относятся к X?» где Х — сущность в дательном падеже;</li>
                       <li">2) Текст предложения.</li>
-                    </ul>
-              </li>     
+                    </ul></li>
             </td>
             <td>
                 <a href="https://drive.google.com/file/d/125-u2a68TYi2LBqoT6X0iw2Jflwa-kpO/view?usp=sharing">Презентация</a><br>
