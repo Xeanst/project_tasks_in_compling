@@ -131,12 +131,7 @@
         <tr>
             <td>9. Извлечение мнений из новостных текстов</td>
             <td>
-                <li>Предшествующие исследования:
-                    <ul>
-                        <li>графовый подход,</li>
-                        <li>разметка последовательности.</li>
-                    </ul>
-                </li>
+                <li>Предшествующие исследования: графовый подход, разметка последовательности.</li>
                 <li>Соревнование RuOpinionNE-2024:
                     <ul>
                         <li>постановка задачи,</li>
@@ -190,7 +185,7 @@
                 <li>Платформы для доступа к LLM по API: Yandex Cloud, Sber, Mistral AI, Together AI, Hugging Face, GroqCloud.</li>
                 <li.Преимущества и недостатки: скорость работы, стоимость, ограничения.</li>
                 <li>Методы подбора инструкций (prompt engineering) для работы с LLM.</li>
-                <li>Генерация ответа в режиме zero-shot и few-shot. 
+                <li>Генерация ответа в режиме zero-shot и few-shot.</li>
                 </li>Наиболее продвинутые техники: цепочка размышлений (Chain-of-Thoughts), самосогласованность (self-consistency), установка роли (role prompting).</li>
                 </td>
             <td><a href="https://colab.research.google.com/drive/12twkTbImoJrwDDAVL18_JjNqRiLbt0oK?usp=sharing">Colab-блокнот</a></td>
