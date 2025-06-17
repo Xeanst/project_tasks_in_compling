@@ -107,7 +107,7 @@
             <td><a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/1_theoretical_part/07_Decoder.ipynb">Colab-блокнот</a></td>
         </tr>
         <tr>
-            <td colspan="3">Б. Проектная часть</td>
+            <td colspan="3"><a href="https://github.com/Xeanst/project_tasks_in_compling/tree/main/2_project_part">II. Проектная часть</a></td>
         </tr>
         <tr>
             <td>8. Анализ тональности к именованным сущностям в новостных текстах</td>
@@ -126,8 +126,8 @@
                     </ul></li>
             </td>
             <td>
-                <a href="https://drive.google.com/file/d/125-u2a68TYi2LBqoT6X0iw2Jflwa-kpO/view?usp=sharing">Презентация</a><br>
-                <a href="https://colab.research.google.com/drive/1X5pew_-CNX63eP8ueNnnURRngzVSpY6K?usp=sharing">Colab-блокнот</a>
+                <a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/08_RuSentNE/08_RuSentNE.pdf">Презентация</a><br>
+                <a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/08_RuSentNE/08_RuSentNE.ipynb">Colab-блокнот</a>
             </td>
         </tr>
         <tr>
@@ -144,8 +144,8 @@
                 <li>Воспроизведение бейзлайна: применение модели Qwen2.5 72B instruct в режиме few-shot.</li>
             </td>
             <td>
-                <a href="https://drive.google.com/file/d/1RuSHU472CwvWeDoZ9cqVluVS5Vfl-DUS/view?usp=sharing">Презентация</a><br>
-                <a href="https://colab.research.google.com/drive/13LIYbe95t-fKL7QMvuU71k8LRVNLXY5q?usp=sharing">Colab-блокнот</a>
+                <a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/09_RuOpinionNE/09_RuOpinionNE.pdf">Презентация</a><br>
+                <a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/09_RuOpinionNE/09_RuOpinionNE.ipynb">Colab-блокнот</a>
             </td>
         </tr>
         <tr>
@@ -165,8 +165,8 @@
                         <li>«вакцины».</li>
                     </ul></li></li></td>
             <td>
-                <a href="https://drive.google.com/file/d/1tG6GeZ-hE09CDgYuvNY5cQ0-_uPe_lQp/view?usp=sharing">Презентация</a><br>
-                <a href="https://colab.research.google.com/drive/1J4-LHvIhoXXSRoy8z_A7pRv9AyZDy2Jp?usp=sharing">Colab-блокнот</a>
+                <a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/10_RuArg/10_RuArg.ipynb">Презентация</a><br>
+                <a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/10_RuArg/10_RuArg.ipynb">Colab-блокнот</a>
             </td>
         </tr>
         <tr>
@@ -179,7 +179,7 @@
                 <li>Выбор и обоснование целевых метрик.</li>
                 <li>Выбор моделей для планируемых экспериментов.</li>
                 <li>Обсуждение с преподавателем и другими студентами.</li></td>
-            <td><a href="https://drive.google.com/drive/folders/1Yl-eMVuxB1YgnelhMWXAkCHzJt57XR2j?usp=sharing">Презентации</a></td>
+            <td><a href="https://github.com/Xeanst/project_tasks_in_compling/tree/main/2_project_part/11_Topic_presentation">Презентации</a></td>
         </tr>
         <tr>
             <td>12. Методы подбора инструкций для больших языковых моделей</td>
@@ -190,7 +190,7 @@
                 <li>Генерация ответа в режиме zero-shot и few-shot.</li>
                 </li>Наиболее продвинутые техники: цепочка размышлений (Chain-of-Thoughts), самосогласованность (self-consistency), установка роли (role prompting).</li>
                 </td>
-            <td><a href="https://colab.research.google.com/drive/12twkTbImoJrwDDAVL18_JjNqRiLbt0oK?usp=sharing">Colab-блокнот</a></td>
+            <td><a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/12_LLM_prompting.ipynb">Colab-блокнот</a></td>
         </tr>
         <tr>
             <td>13. Объяснимость моделей машинного обучения</td>
@@ -201,7 +201,7 @@
                 <li>Методы объяснения, независимые от модели (model-agnostic): ICE, LIME, SHAP.</li>
                 <li>Практическая реализация для различных задач.</li>
             </td>
-            <td><a href="https://colab.research.google.com/drive/1d-td9O3yvNz360y4cLUIiXIaNK0KSuDq?usp=sharing">Colab-блокнот</a></td>
+            <td><a href="https://github.com/Xeanst/project_tasks_in_compling/blob/main/2_project_part/13_Explainability.ipynb">Colab-блокнот</a></td>
         </tr>
         <tr>
             <td>14. Итоговая защита проектов</td>
@@ -213,7 +213,7 @@
                 <li>Рецензирование работ друг друга.</li>
                 <li>Ответы на вопросы.</li>
             </td>
-            <td><a href="https://drive.google.com/drive/folders/1vzof0gS5E98sag30Z_23e4wIPGaNKJUY?usp=sharing">Проекты</a></td>
+            <td><a href="https://github.com/Xeanst/project_tasks_in_compling/tree/main/2_project_part/14_Project_defense">Проекты</a></td>
         </tr>
 </table>
 </html>
